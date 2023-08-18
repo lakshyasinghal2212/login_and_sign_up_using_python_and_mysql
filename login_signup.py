@@ -1,5 +1,5 @@
 import mysql.connector as mc
-mycon=mc.connect(host="localhost",user="root",password="123123",database='lakshya')
+mycon=mc.connect(host="localhost",user="",password="",database='')
 cur=mycon.cursor()
 print("---Welcome---\n")
 
